@@ -22,6 +22,9 @@ rank-UPP_SeniorSergeant = Старшина
 rank-UPP_FirstSergeant = Первый сержант
   .prefix = 1-й Серж.
 
+rank-UPP_SergeantMajor = Cержант-майор
+  .prefix = Серж.-майор
+
 rank-UPP_WarrantOfficer = Прапорщик
   .prefix = Прап.
 
